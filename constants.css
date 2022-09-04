@@ -1,0 +1,9 @@
+:root {
+  font-size: 15px;
+
+  --card-background: hsl(0, 0%, 100%);
+  --container-background: hsl(212, 45%, 89%);
+  --text-dark: hsl(218, 44%, 22%);
+  --text-light: hsl(220, 15%, 55%);
+  --card-border-radius: 14px;
+}
